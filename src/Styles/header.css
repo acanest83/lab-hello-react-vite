@@ -1,0 +1,36 @@
+.header-Principal {
+  display: flex;
+  justify-content: left;
+  height: 400px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #1b2233;
+  color: white;
+}
+.logos-header {
+  justify-content: space-between;
+}
+.logo-header {
+  width: 50px;
+  
+}
+.menu-header {
+  width: 20px;
+}
+.head-header {
+  font-size: 100px;
+}
+.paragraph-header {
+  font-size: 20px;
+}
+.btn-header {
+  width: 200px;
+  height: 70px;
+  border-radius: 8px;
+  background-color: white;
+  font-size: 20px;
+  font-weight: bold;
+  color: #1b2233;
+}
